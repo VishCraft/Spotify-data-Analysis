@@ -1,4 +1,4 @@
-End-to-End Data Engineering Project on AWS Cloud
+                                                                  End-to-End Data Engineering Project on AWS Cloud
 This project demonstrates an end-to-end data engineering pipeline using AWS Cloud services. The pipeline includes a staging layer, an ETL process using AWS Glue, and a data warehouse. Once the data warehouse is populated, we use AWS Glue Crawler to create a database and table, and AWS Athena to query the data.
 
 Project Overview
