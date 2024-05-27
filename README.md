@@ -44,3 +44,4 @@ Navigate to the AWS Athena console.
 Select the database created by the Glue Crawler.
 Write and execute SQL queries to analyze the data.
 
+![Spotify_ETL_pipeline](https://github.com/VishCraft/Spotify-data-Analysis/assets/144891820/4050719e-e29d-4958-9000-366b7bb8305a)
