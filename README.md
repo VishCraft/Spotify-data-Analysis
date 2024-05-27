@@ -26,3 +26,21 @@ Go to the AWS Glue console.
 Create a new job.
 Specify the IAM role with the necessary permissions.
 Define the script to read data from the staging S3 bucket, transform it, and write it to another S3 bucket (data warehouse).
+Run the AWS Glue Job to execute the ETL pipeline.
+
+3. AWS Glue Crawler
+Create a Crawler:
+
+Go to the AWS Glue console.
+Create a new crawler.
+Specify the data warehouse S3 bucket as the data source.
+Define the output database and table.
+Run the Crawler to populate the database and table schema.
+
+4. Query Data with AWS Athena
+Go to AWS Athena:
+
+Navigate to the AWS Athena console.
+Select the database created by the Glue Crawler.
+Write and execute SQL queries to analyze the data.
+
